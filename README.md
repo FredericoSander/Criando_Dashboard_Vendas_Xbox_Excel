@@ -123,9 +123,9 @@ GitHub - [Dashboard de Análise de Assinaturas](https://github.com/FredericoSand
 Ou clone o repositório usando o comando:
 git clone https://github.com/FredericoSander/Criando_Dashboard_Vendas_Xbox_Excel.git
 
-- Requisitos para execução:
-Microsoft Excel 2016 ou superior
-Recomendado: 4GB de RAM para melhor desempenho com grandes volumes de dados.
+- Requisitos para execução: Microsoft Excel 2016 ou superior
+- Recomendado: 4GB de RAM para melhor desempenho com grandes volumes de dados.
+
 ## 👤 Autor
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/136928502?s=96&v=4" width=115><br><sub>Frederico Sander</sub>](https://github.com/FredericoSander)
 | :---: | 
